@@ -2,6 +2,10 @@
 # Automated TB Detection System
 
 An innovative medical diagnostic tool that combines image processing and machine learning to detect tuberculosis from chest X-rays using Python and Arduino.
+Links:
+https://github.com/2029chan/TB_Image-claassification/blob/main/Working_Video.mp4
+https://github.com/2029chan/TB_Image-claassification/blob/main/inout_interface.py
+https://github.com/2029chan/TB_Image-claassification/blob/main/Main.ino
 
 ## Project Description
 
