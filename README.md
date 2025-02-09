@@ -111,5 +111,3 @@ For questions and support, please open an issue in the repository.
 ---
 **Note:** This project is developed for research and preliminary screening purposes only. It should not be used as the sole diagnostic tool for tuberculosis detection.
 
----
-Answer from Perplexity: pplx.ai/share
