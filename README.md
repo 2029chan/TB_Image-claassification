@@ -1,4 +1,4 @@
-# TB_Image-claassification
+# TB_Image-classification
 # Automated TB Detection System
 
 An innovative medical diagnostic tool that combines image processing and machine learning to detect tuberculosis from chest X-rays using Python and Arduino.
